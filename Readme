@@ -1,0 +1,17 @@
+TComicDownloader
+
+Simple Python Based Comic Downloading Script.
+
+Operating Instructions:
+
+./TComicDownloader.py "ComicName" "Start_Index" "End_Index"
+
+Comic Name Being - 'xkcd' or 'http://xkcd.com'
+
+Requires:
+Python2.7
+BeautifulSoup 
+
+
+Tanmay Chaudhry
+tanmay.chaudhry@gmail.com
